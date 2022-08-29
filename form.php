@@ -10,7 +10,7 @@
 
 $gmail = $_POST["gmail"]
 
-echo $gmail;
+echo $_POST["gmail"];
 
 
 
