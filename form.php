@@ -1,3 +1,9 @@
+<html>
+<head>
+  
+</head>
+  
+<body>  
 <?php
 
 
@@ -9,3 +15,6 @@ echo $gmail;
 
 
 ?>
+  
+</body>  
+</html>
