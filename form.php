@@ -4,17 +4,7 @@
 </head>
   
 <body>  
-<?php
-
-
-
-
-
-echo $_POST["gmail"];
-
-
-
-?>
+<h1>hola</h1>
   
 </body>  
 </html>
